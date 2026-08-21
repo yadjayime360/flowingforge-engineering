@@ -18,9 +18,7 @@ calculators into one deployed tool:
 
 ## Live app
 
-🔗 **Live Streamlit app:** _\<paste your Streamlit Community Cloud URL
-here after deploying\>_
-
+🔗 **Live Streamlit app:** https://flowingforge-engineering-vufsasgherncev3oh3scst.streamlit.app/
 ## Project structure
 
 ```
